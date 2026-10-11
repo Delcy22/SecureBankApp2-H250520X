@@ -42,3 +42,6 @@ java -cp out Main
 ```
 Data is stored in the project's `data` folder. If you launch the app from the parent
 directory, it uses the data folder inside the single project folder it finds.
+
+The `sample-data` folder contains fictional account and transaction records for
+demonstration. Real local data files are excluded from GitHub.
